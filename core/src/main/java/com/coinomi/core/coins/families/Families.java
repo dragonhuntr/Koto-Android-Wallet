@@ -15,6 +15,7 @@ public enum Families {
     REDDCOIN("reddcoin"),
     VPNCOIN("vpncoin"),
     CLAMS("clams"),
+    KOTO("koto")
     ;
 
     public final String family;

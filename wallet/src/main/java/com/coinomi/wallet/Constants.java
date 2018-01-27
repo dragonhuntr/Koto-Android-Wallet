@@ -362,7 +362,7 @@ public class Constants {
             VpncoinMain.get(),
             BitcoinTest.get(),
             LitecoinTest.get(),
-            DogecoinTest.get()
+            DogecoinTest.get(),
             KotoMain.get()
     );
 }
